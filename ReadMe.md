@@ -1,4 +1,4 @@
-**Amazon Clone**
+<h1>Amazon Clone</h1>
 <br>A clone of the Amazon website for practising Web Development skills.
 <br>Technology Stack: HTML, CSS
 <br>Ex: Home Page
